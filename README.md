@@ -24,10 +24,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough demonstrating the running app:
 <div>
-    <a href="https://www.loom.com/share/e6b4e09870b54b63a17191969df93d0d">
+    <a href="https://www.loom.com/share/7bd3c26963d34020b38e0d3be786f3f6">
     </a>
-    <a href="https://www.loom.com/share/e6b4e09870b54b63a17191969df93d0d">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6b4e09870b54b63a17191969df93d0d-7b3ee13c55ffd29b-full-play.gif#t=0.1">
+    <a href="https://www.loom.com/share/7bd3c26963d34020b38e0d3be786f3f6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7bd3c26963d34020b38e0d3be786f3f6-282cbb8edc210e60-full-play.gif#t=0.1">
     </a>
   </div>
 
