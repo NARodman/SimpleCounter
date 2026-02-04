@@ -23,10 +23,15 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough demonstrating the running app:
+<div>
+    <a href="https://www.loom.com/share/7bd3c26963d34020b38e0d3be786f3f6">
+    </a>
+    <a href="https://www.loom.com/share/7bd3c26963d34020b38e0d3be786f3f6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7bd3c26963d34020b38e0d3be786f3f6-282cbb8edc210e60-full-play.gif#t=0.1">
+    </a>
+  </div>
 
-<img src='simplecounter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [Kap](https://getkap.co/)  
+Video created with Loom 
 
 ## Notes
 
